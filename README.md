@@ -1,4 +1,4 @@
-Dummy Dog🐕‍🦺 Selling Shop in Kathmandu, Nepal
+Dog🐕‍🦺 Selling Shop in Kathmandu, Nepal - Dummy Website
 
 This Project is based on Basic HTML and Basic CSS only.
 Not even intermediate level CSS is used !
