@@ -1,0 +1,12 @@
+Currently, this site is good for desktop/laptop only. 
+This website has not been made responsive yet.
+
+( Resolution under consideration while designing the webpage : 1000px)
+( Website Good to go if the screen dimensions is atleast [1000px x ***px] )
+
+
+I will, later make this site responsive !
+                             
+
+
+                             ! ! !  Good Bye  ! ! !
